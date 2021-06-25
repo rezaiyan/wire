@@ -19,7 +19,7 @@ The Wire is a Kotlin Multiplatform sample project, currently supporting Android 
    
    `common:compose-ui`: shared compose ui components.
    
-<img src="assets/modules.jpg" width="50%"/>
+<img src="assets/module.jpg" width="50%"/>
 
 ## Installing & Running
 

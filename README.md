@@ -19,9 +19,10 @@ The Wire is a Kotlin Multiplatform sample project, currently supporting Android 
    
    `common:compose-ui`: shared compose ui components.
    
+    <img src="assets/modules.jpg" width="30%"/>
 ## Installing & Running
 
-  **Download the Reyan source code** 
+  **Download the Wire source code** 
  
   Clone the source code by `git clone https://github.com/rezaiyan/wire.git` and wait for the Gradle build to succeed
   
